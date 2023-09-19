@@ -16,6 +16,8 @@ Clone this repository to your local machine
 Navigate to the project directory
 - cd connectcon
 
+Need to create a .env file that follows the structure of the example.env file provided. Add the API keys you received to your .env file
+
 Run this Docker Compose Command to set up and run the project
 - docker compose up
 
