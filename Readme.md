@@ -7,7 +7,6 @@ Need to get two API Keys
 - OPEN WEATHER API- Go to this website https://openweathermap.org/api/geocoding-api make an account and recieve an API key
 - PEXELS API- Go to this website https://www.pexels.com/api/ make an account and recieve an API key
 
-Need to create a .env file that follows the structure of the example.env file provided. Once you received the API Keys- add them to you .env file
 
 ## Getting Started
 Clone this repository to your local machine
