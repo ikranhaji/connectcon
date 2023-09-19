@@ -1,0 +1,14 @@
+.c {
+    width: 24rem;
+    margin: 0 auto;
+    margin-top: 5rem;
+}
+
+.card-img {
+    max-height: 300px;
+
+}
+
+.con {
+    text-align: center;
+}
